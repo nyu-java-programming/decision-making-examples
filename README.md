@@ -1,3 +1,3 @@
-# Array Examples
+# Methods Examples
 
-A few simple examples of one-dimensional arrays in Java.
+A few simple examples of methods in Java.
