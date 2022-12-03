@@ -1,3 +1,3 @@
-# Methods Examples
+# Loops Examples
 
-A few simple examples of methods in Java.
+A few embarrassingly simple examples of loops in Java.
