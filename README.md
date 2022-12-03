@@ -1,3 +1,3 @@
-# Multidimensional Array Examples
+# Array Examples
 
-A few simple examples of multidimensional arrays in Java.
+A few simple examples of one-dimensional arrays in Java.
