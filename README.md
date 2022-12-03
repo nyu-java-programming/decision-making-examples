@@ -1,3 +1,3 @@
-# Loops Examples
+# Decision-Making Examples
 
-A few embarrassingly simple examples of loops in Java.
+A few simple decisino-making examples using `if`/`else if`/`else` statements in Java.
